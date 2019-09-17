@@ -1,6 +1,6 @@
 ---
 title: "poor coder"
-date: YYYY-MM-DD
+date: 2019-09-16
 ---
 
 Blog post midnight
